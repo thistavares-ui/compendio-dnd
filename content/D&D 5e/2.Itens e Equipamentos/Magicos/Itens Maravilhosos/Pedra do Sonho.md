@@ -1,0 +1,8 @@
+# Pedra do Sonho *(Dreamstone)*
+
+**Fonte:** D&D Wiki
+**Tipo:** Item Maravilhoso (Maravilhoso, Raro)
+
+Esta pedra deslumbrante protege contra sonhos ruins e, de acordo com a lenda, possui o poder de acordar alguém adormecido, independentemente do que o tenha colocado nesse estado. Qualquer criatura dentro de 9 metros da Pedra do Sonho é garantida um sono tranquilo e reparador. As criaturas nessa área são imunes a feitiços e outros efeitos mágicos que afetam os sonhos ou o sono de uma criatura, como pesadelos causados pela mensagem do [[Night Hag|Pesa-Noite]] da magia [[nightmare|Pesadelo]], ou pelo poder de uma [[Night Hag|Pesa-Noite]]. Enquanto você estiver sintonizado com a Pedra do Sonho, adquire um bônus de +5 em testes de Sabedoria (Percepção) feitos para detectar ameaças enquanto descansa.
+
+Ao esmagar a pedra em pó e espalhar o pó sobre uma criatura inconsciente, petrificada ou dormindo, você pode acordá-la instantaneamente. Se a condição da criatura for mágica, a magia que a colocou para dormir é desfeita sem falha. Isso funciona em qualquer efeito mágico até e incluindo a forma de sono da magia [[Imprisonment|Aprisionamento]]. A criatura acordada pela Pedra do Sonho acorda perfeitamente restaurada, removendo todos os níveis de exaustão e recuperando 4d8 + 6 Pontos de Vida (Hit Points). Uma vez que você use essa habilidade da Pedra do Sonho, a pedra perde sua magia e é destruída.

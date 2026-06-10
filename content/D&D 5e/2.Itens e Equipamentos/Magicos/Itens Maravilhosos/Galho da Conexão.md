@@ -1,0 +1,15 @@
+# Galho da Conexão *(Branch of Connection)*
+
+**Fonte:** D&D Wiki  
+**Tipo:** Item Maravilhoso  
+**Dano:** 2d6 + Modificador de Força (contundente)  
+
+### Propriedades:
+
+Este ramo pode ser criado cortando a mão de um Treefolk e, em seguida, realizando a Combustão do restante do corpo. A mão então se transforma em um galho de pinheiro após permanecer nas cinzas. Este galho parece um galho normal de pinheiro, mas, se tocado em uma ferida aberta, as agulhas traçam seu caminho para dentro da lesão e a madeira se enfia no coração da pele ao redor dela, selando e desinfetando o ferimento. A dor deste processo é lancinante. Lentamente, o tecido da pele começa a se transformar em casca enquanto a "Infecção" se espalha até a mão mais próxima. Deve-se notar que esta "Infecção" de madeira não se espalha por todo o corpo, apenas até a mão (por exemplo, se a ferida estiver no tornozelo, a "Infecção" de madeira irá se espalhar pela perna e pelo torso até alcançar a mão). Se a ferida estiver na própria mão, todo o braço será transformado, assim como a área logo acima do pulso. Algumas das áreas afetadas podem crescer folhas semelhantes às de um Treefolk. Após a ferida ter sido completamente selada, o galho — que é relativamente pequeno em tamanho — começará a se ressecar e morrer como um galho comum.
+
+Uma vez que toda a mão tenha sido transformada, sua mente começa a Dividir: metade exatamente como antes e a outra metade assume um alinhamento Ordeiro e Neutro ou Ordeiro e Bom, dependendo do seu alinhamento anterior (ou seja, Mau torna-se Neutro, e Neutro ou Bom torna-se Bom). Além disso, sua segunda Personalidade está profundamente atraída pela Natureza, gosta de plantas e acredita ser um Treefolk. Você passa a se referir a si mesmo como "nós" e tem conversas (e/ou argumentos) com suas duas personalidades, a menos que faça um esforço consciente para evitar isso.
+
+Após a Personalidade Dividir, a terceira e última fase do galho toma Local. A mão/área infectada causa 2d6 + seu Modificador de Força de dano contundente com um Ataque Desarmado e possui uma força de agarrar extrema (seu Mestre decidirá exatamente o que isso significa dependendo do uso). Assim como os Treefolk, quando você descansa sob o sol, obtém toda a comida necessária por um dia; porém, diferente dos Treefolk, porque apenas parte do seu corpo é madeira, isso requer um Descanso Longo. Além disso, você ganha proficiência na habilidade Natureza. Você pode falar, ler e escrever em Silvestre, além de suas outras línguas, bem como comunicar mensagens simples com as plantas. Enquanto estiver sem usar nenhuma armadura e nenhum escudo, sua Classe de Armadura (AC) é igual a 10 + seu Modificador de Constituição + seu Modificador de Destreza.
+
+A propagação da "Infecção" leva um dia por pé (0,3 m) que ela viaja. Cada fase subsequente leva dois dias para se completar.

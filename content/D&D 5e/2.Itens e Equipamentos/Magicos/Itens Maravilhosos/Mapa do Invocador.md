@@ -1,0 +1,15 @@
+# Mapa do Invocador *(Conjurer’s Map)*
+
+**Fonte:** D&D Wiki  
+**Tipo:** Item Maravilhoso  
+**Dano:** Omitir  
+
+**Propriedades:**
+
+O item parece uma táboa de madeira vazia, com 13 centímetros de espessura, 0,6 metros de comprimento e 0,3 metro de largura. A táboa pesa 5,4 quilos e sempre aparece impecavelmente limpa. Quando um mapa é colocado sobre a superfície, a madeira racha e adquire cores para replicar os detalhes cartográficos: manchas tornam-se azuis para reproduzir corpos d'água, enquanto fissuras copiam fronteiras, edifícios, paisagens, montanhas e símbolos. A táboa então começa a recriar o mapa em três dimensões ao longo de uma hora. Nesse período, fragmentos de bronze emergem das rachaduras e giram, levantando dobras da madeira que formam miniaturas das altitudes, colinas, castelos, casas, árvores e outras estruturas — naturais ou artificiais — representadas no documento.
+
+Após a recriação ser concluída, os fragmentos se acomodam. Quando uma criatura toca um ponto específico na maquete tridimensional, ela e qualquer outra criatura dentro de 3 metros da táboa são instantaneamente teleportadas para aquele destino. Se uma das criaturas teleportadas estiver atada ao item mágico por meio de um vínculo (atuada), a própria táboa também é transportada junto com elas. O destino não precisa estar no mesmo plano de existência que a táboa. Uma criatura relutante presente na área durante o transporte pode realizar um Teste de Inteligência DC 16 para manter sua mente firme e evitar ser transportada involuntariamente pelo mapa. Apenas o lado onde a recriação está exposta possui a capacidade de teletransportar uma criatura.
+
+A precisão do transporte depende diretamente da escala do mapa original. Se o mapa tiver uma escala de 300 metros por centímetro ou menor, a criatura reaparece em um espaço desocupado aleatório dentro de um raio de 3 metros centrado no ponto que foi tocado na táboa. Esse raio aumenta em 3 metros para cada adicional de 300 metros na escala. Se não houver espaço desocupado na área de chegada, a criatura é empurrada para o espaço desocupado mais próximo fora do raio, sofrendo 1d6 de Dano Energético para cada 1,5 metro que a criatura precisa viajar forçada.
+
+A recriação não é indestrutível. Sempre que uma criatura que não esteja vinculada (atuada) a esse item toca um ponto na táboa, role um d20. Em um resultado de 2 ou menor, as estruturas se retraem nas rachaduras e estas se fecham novamente, tornando a táboa completamente vazia. A área anteriormente representada pela táboa torna-se permanentemente inacessível para transporte usando esse item. Se você estiver vinculado à táboa e usá-la para o mesmo mapa mais de uma vez em um período de 24 horas, também deve realizar esse teste. Qualquer mapa que se sobreponha a uma área já "selada" por essa característica é impossível de utilizar para transporte por meio desse item.

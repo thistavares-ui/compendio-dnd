@@ -1,0 +1,8 @@
+# Armadura do Bucaneiro Cervejeiro *(Beer Buccaneer Armor)*
+
+**Fonte:** D&D Wiki
+**Tipo:** Heavy Armor (Armadura Pesada)
+**Dano:** —
+**Propriedades:** —
+
+A ideia insana de forjar esta armadura nasceu da amizade inusitada entre um habilidoso, ainda que alcoólatra, ferreiro anão e um paranoico *tinkerer* (artífice) gnômico. A peça consiste em um cilindro oco forjado em uma liga de aço e mithral, combinado com placas adicionais para as coxas e pernas, além de uma fenda para visão. O cilindro possui aberturas laterais para os braços e a base é aberta. Por dentro, escotilhas permitem selar essas aberturas. Ripas de madeira leve revestem o cilindro, conferindo-lhe a aparência de um barril de cerveja comum. O usuário da armadura tem seu campo de visão severamente restrito, mas torna-se praticamente impossível de ser atingido, graças às aduelas do barril reforçadas com aço. Você pode recolher os braços e as pernas para dentro do barril e fechar tanto a fenda de visão quanto as aberturas laterais. Enquanto permanecer imóvel, você é indistinguível de qualquer outro barril de cerveja. Se, por alguma razão, uma criatura decidir inspecionar o barril, um teste bem-sucedido de Intelligence (Investigação) com CD 15 permite que ela perceba o disfarce. Você sofre desvantagem em Attack Rolls (Jogadas de Ataque), bem como em testes de Wisdom (Percepção) enquanto utilizar este trambolho. Caso não possua proficiência em Heavy Armor (Armadura Pesada), seu deslocamento é reduzido a 0 ao usar esta armadura, e você não pode se beneficiar de quaisquer aumentos em seu deslocamento.

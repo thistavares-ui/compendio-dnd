@@ -1,0 +1,8 @@
+# Estrutura Dobrável de Armas *(Foldable Weapon Frame)*
+
+**Fonte:** D&D Wiki
+**Tipo:** Equipamento de Aventura
+**Dano:** —
+**Propriedades:** —
+
+A estrutura dobrável de armas é um dispositivo mecânico retrátil que permite o armazenamento, transporte e manuseio facilitado de múltiplas armas e outros itens úteis em combate. Sem modificações, a estrutura atua como uma bainha, podendo armazenar até três armas ou outros itens ao seu alcance para acesso rápido. Com o uso de ferramentas de funileiro (tinker's tools), você pode gastar 8 horas para modificar e fixar diretamente um item à estrutura. Até três itens podem ser acoplados a uma única estrutura por vez. A estrutura e todos os itens acoplados são considerados e tratados como um único item até que você gaste 8 horas para desacoplar um deles. Você pode empunhar apenas uma arma acoplada por vez, mas pode trocar livremente a arma em uso, mesmo entre múltiplos ataques realizados em uma única ação. Quando um item não estiver em uso, ele será recolhido para o interior da estrutura, pois a armação assume a forma do item que está sendo ativamente utilizado. Se o item acoplado possuir a propriedade Arremesso (Thrown), você pode arremessar a estrutura inteira, desde que nenhum item acoplado possua a propriedade Pesada (Heavy) e o peso combinado da estrutura não exceda o seu valor de Força (Strength) em quilos. Quando não estiver em uso, a estrutura e os itens acoplados se retraem para um formato compacto e fácil de guardar, não maior que uma maleta média.

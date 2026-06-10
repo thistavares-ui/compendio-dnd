@@ -1,0 +1,22 @@
+# Olho do Observador *(Eye of the Beholder)*
+
+**Fonte:** D&D Wiki
+**Tipo:** Item Maravilhoso
+**Nível de Raridade:** Raro a Lendário (varia conforme o tipo)
+
+O olhar de um [[Observador|Beholder]] é uma medalha ornamentada com um olho de [[Observador|Beholder]]. O item possui 4 cargas. Como uma Ação, você pode gastar uma carga para disparar um raio do olho. Existem dez variedades desse olho, correspondendo às dez diferentes órbitas oculares de um [[Observador|Beholder]]. O efeito do raio é determinado pela variedade específica que você possui. O olho recupera 1d4 cargas gastas todos os dias ao amanhecer.
+
+### Tipos de Olhos
+
+| Tipo | Efeito | Raridade |
+| --- | --- | --- |
+| Encantamento (Charming) | O alvo deve realizar um Teste de Resistência de Sabedoria (Wisdom Saving Throw) DC 16 ou ficará Enfeitiçado por você por 1 hora, ou até que você ou seus aliados causem dano ao alvo. | Raro |
+| Medo (Fear) | O alvo deve realizar um Teste de Resistência de Sabedoria (Wisdom Saving Throw) DC 16 ou ficará Amedrontado por 1 minuto. O alvo pode repetir o teste ao final de cada uma de suas Voltas, encerrando o efeito em si mesmo em caso de sucesso. | Raro |
+| Sono (Sleep) | O alvo deve realizar um Teste de Resistência de Sabedoria (Wisdom Saving Throw) DC 16 ou cairá no sono e permanecerá Inconsciente por 1 minuto. O alvo acorda se tomar dano ou se outra criatura usar uma Ação para acordá-lo. Este raio não afeta Construções e Mortos-vivos. | Raro |
+| Retardamento (Slowing) | O alvo deve realizar um Teste de Resistência de Destreza (Dexterity Saving Throw) DC 16. Se falhar, sua Velocidade é reduzida pela metade por 1 minuto. Adicionalmente, o alvo não pode tomar Reações e pode realizar uma Ação OU uma Ação Bônus em sua Volta, mas não ambas. O alvo pode repetir o teste ao final de cada uma de suas Voltas, encerrando o efeito em si mesmo em caso de sucesso. | Raro |
+| Enervação (Enervation) | O alvo deve realizar um Teste de Resistência de Constituição (Constitution Saving Throw), sofrendo 36 (8d8) de Dano Necrótico se falhar, ou metade desse dano em caso de sucesso. | Muito Raro |
+| Paralisante (Paralyzing) | O alvo deve realizar um Teste de Resistência de Constituição (Constitution Saving Throw) DC 16 ou ficará Paralisado por 1 minuto. O alvo pode repetir o teste ao final de cada uma de suas Voltas, encerrando o efeito em si mesmo em caso de sucesso. | Muito Raro |
+| Telecinético (Telekinetic) | Se o alvo for uma criatura, ela deve realizar um Teste de Resistência de Força (Strength Saving Throw) DC 16 ou será movida até 9 metros (30 pés) em qualquer direção. Ela está presa pelo agarre telecinético do raio até o início de sua próxima Volta. Se o alvo for um Objeto pesando 150 kg (300 libras) ou menos que não esteja sendo usado ou transportado, ele é movido até 9 metros (30 pés) em qualquer direção. Você também pode exercer controle fino sobre objetos com esse raio, como manipular uma ferramenta simples ou abrir uma porta ou um recipiente. | Muito Raro |
+| Morte (Death) | O alvo deve realizar um Teste de Resistência de Destreza (Dexterity Saving Throw) DC 16 ou sofrerá 55 (10d10) de Dano Necrótico. O alvo morre instantaneamente se este raio reduzir seus Pontos de Vida (Hit Points) a zero. | Lendário |
+| Desintegração (Disintegration) | Se o alvo for uma criatura, ela deve realizar um Teste de Resistência de Destreza (Dexterity Saving Throw) DC 16 ou sofrerá 45 (10d8) de Dano Energético. Se esse dano reduzir a criatura a zero Pontos de Vida (Hit Points), seu corpo se torna uma pilha de pó cinza fino. Se o alvo for um Objeto não mágico Grande ou menor, ou uma Criação de força mágica, ele é desintegrado sem necessidade de teste. Se o alvo for um Objeto Enorme ou maior, ou uma Criação de força mágica, esse raio desintegra um cubo de 3 metros (10 pés) de lado dele. | Lendário |
+| Petrificação (Petrification) | O alvo deve realizar um Teste de Resistência de Destreza (Dexterity Saving Throw) DC 16. Se falhar, o alvo começa a se transformar em pedra e fica Preso. Ele deve repetir o teste ao final de sua próxima Volta. Em caso de sucesso, o efeito termina. Em caso de falha, o alvo é Petrificado até ser libertado pela magia Restauração Maior (Greater Restoration) ou magia equivalente. | Lendário |

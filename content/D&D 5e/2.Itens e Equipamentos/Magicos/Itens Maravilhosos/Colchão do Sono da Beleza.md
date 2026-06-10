@@ -1,0 +1,9 @@
+# Colchão do Sono da Beleza *(Bedding of Beauty Sleep)*
+
+**Fonte:** D&D Wiki
+**Tipo:** Item Maravilhoso (Maravilha Não Ativa, Rara)
+
+Este colchão é grande o suficiente para acomodar um ser de tamanho Pequeno ou Médio. Espesso e incrivelmente macio, ele mantém o ocupante aquecido no frio e perfeitamente ventilado no calor. Se você realizar um [[Descanso Longo|Descanso Longo]] neste leito, adquire os benefícios listados abaixo. Eles duram por 24 horas ou até que você adquira qualquer nível de [[Exaustão]].
+
+* **Beleza Distrativa.** Após uma noite neste colchão, suas feições irradiam vitalidade, seus movimentos ganham uma graça antinatural e sua voz soa como o canto dos pássaros. Outros seres são facilmente distraídos por tal beleza, tornando-se menos propensos a notar pequenas mentiras ou ações sutis. Ao completar um [[Descanso Longo|Descanso Longo]] nesta cama, você ganha [[Itens_Traduzidos/Comuns/Armaduras/Vantagem]] em todas as [[Teste de Habilidade|Testes de Habilidade]] de [[Carisma]] enquanto o alvo puder te ver ou ouvir, desde que não seja imune ao estado [[Encantado|Enfeitiçado]]. Além disso, você pode usar [[Carisma]] em vez de [[D&D 5e/2.Itens e Equipamentos/Magicos/Itens Maravilhosos/Destreza]] para testes de [[D&D 5e/2.Itens e Equipamentos/Magicos/Itens Maravilhosos/Prestidigitação]].
+* **Cativar.** Você adquire a habilidade de conjurar a magia [[Cativar]]. Você pode lançá-la um número de vezes igual ao seu modificador de [[Carisma]] (mínimo de uma vez) sem precisar de espaços de magia. O modificador de habilidade para essa magia é [[Carisma]]. Você perde qualquer uso não utilizado dessa magia quando os benefícios da cama se encerram.

@@ -1,0 +1,25 @@
+# Espinho *(Thorn)*
+
+**Fonte:** D&D Wiki
+**Tipo:** Arma Mágica
+**Dano:** Perfurante + Necrótico
+**Propriedades:** Sintonização
+
+Espinho é uma das Armas da Dor, criadas pelos rituais das Abelhas Sombrias. Originalmente chamada Rosa, esta arma foi usada por um herói conhecido como Rezyl Azzir. Seduzido pelo poder que buscava dominar, ele e sua arma foram corrompidos pelos Poderes Sombrios da Abelha. O nome Rosa foi mudado junto com o de Rezyl, que agora se chamava Dredgen Yor. Espinho desenvolveu uma fome por mais poder, e Yor usou-a para consumir as almas das criaturas que matava. Após a derrota de Dredgen Yor pelas mãos de outro grande herói, um grupo que se autodenominava Sombras de Yor começou a seguir seus passos, tentando evitar cair na mesma loucura sombria que consumiu Dredgen Yor. Muitas réplicas de Espinho foram feitas, mas nenhuma se comparou ao original.
+
+Espinho é uma arma mágica que concede um bônus de +3 em ataques e dano.
+
+**Sinal do Devorador**
+Quando você ataca com Espinho, ela causa seu dano normal de Perfurante além de 1d4 de dano Necrótico. Além disso, em um golpe bem-sucedido, Espinho aplica dano Necrótico por 2 rodadas, causando 1 ponto de dano no final de cada turno do alvo. Este dano ignora resistências e imunidades. O efeito pode se acumular até 3 vezes. Ataques com Espinho ignoram qualquer bônus à Classe de Armadura (Armor Class) de um alvo, se esse bônus resultar de uma magia (por exemplo, *escudo*) ou outro efeito mágico (como o bônus concedido por um item mágico). CA natural e itens não mágicos não são afetados. Se a CA de um alvo é inteiramente derivada de uma magia (por exemplo, *armadura mágica*), a CA do alvo torna-se 10 + seu modificador de Destreza (Dexterity). Adicionalmente, este item ignora Pontos de Vida Temporários (Temporary Hit Points), causando dano diretamente aos pontos de vida normais. Cada acúmulo do Sinal do Devorador reduz a CA não mágica do alvo por 1.
+
+**Devorador de Alma**
+Quando uma criatura é morta enquanto está sob os efeitos do Sinal do Devorador, você recupera 1d10 + metade do seu nível em Pontos de Vida (Hit Points). Se sete criaturas são mortas antes que um Descanso Longo (Long Rest) seja completado, você recupera o uso de uma habilidade que requer um Descanso Curto (Short Rest) ou Longo (Long Rest). Adicionalmente, por três rodadas após a morte, Espinho causa 1d6 de dano Necrótico em vez de 1d4. O dano do Sinal do Devorador aumenta para 3 em vez de 1, e ainda pode se acumular até 3 vezes. O efeito Devorador de Alma é renovado após uma morte e pode ser mantido durante um combate, contanto que uma criatura com o Sinal do Devorador morra enquanto Devorador de Alma está ativo.
+
+**Fome de Dredgen**
+Se uma criatura é reduzida a 0 Pontos de Vida (Hit Points) por dano causado por Espinho, você pode, como uma Reação (Reaction), mover-se até metade da sua velocidade e fazer outro ataque contra uma criatura que possa alcançar, mesmo que já tenha usado toda sua movimentação neste turno. Isso pode ser usado durante o turno de outra criatura, mas apenas imediatamente após uma criatura ser derrotada pelo dano de Espinho.
+
+**Maldição dos Vermes Ancestrais**
+Espinho, embora separado de Dredgen Yor por algum tempo e potencialmente usado para o bem, ainda carrega uma influência corruptora. Quando você se sintoniza com Espinho, faça um Teste de Resistência (Saving Throw) de Sabedoria (Wisdom) CD 18. Se você for bem-sucedido, nada acontece. Se você falhar, então você cai Inconsciente (Unconscious) e deve realizar outro Teste de Resistência (Saving Throw) de Sabedoria (Wisdom) CD 20. Se você for bem-sucedido, você acorda após uma hora com 3 níveis de Exaustão (Exhaustion). Se você falhar, seu alinhamento se torna Mau (Evil) ao longo de alguns dias, independentemente do seu alinhamento original. Você também ganha a nova Falha (Flaw): "Eu matarei aqueles que são mais fracos do que eu em nome de minha companheira confiável, Espinho". Essas condições podem ser revertidas apenas se você desintonizar de Espinho, o que você não fará de forma voluntária. Se o primeiro teste foi bem-sucedido ao se sintonizar com Espinho, então a cada dia que você ainda estiver sintonizado com a arma, você deve realizar o mesmo Teste de Resistência (Saving Throw) de Sabedoria (Wisdom) ao anoitecer, desta vez com CD 14. Os efeitos da maldição podem ser removidos apenas matando Xyor, o Não Casado, enquanto portador de Espinho. Isso removerá a Corrupção de Espinho e ela será segura para sintonização sem risco.
+
+**Destruição de Espinho**
+Espinho pode ser destruída apenas se for levada ao local de descanso de Dredgen Yor e colocada no chão ali. Ela então pode ser destruída por um personagem alinhado com o Bem (Good) ou Neutro (Neutral) usando um Ritual projetado para destruir a arma, conhecido apenas por uma Sombra de Yor.

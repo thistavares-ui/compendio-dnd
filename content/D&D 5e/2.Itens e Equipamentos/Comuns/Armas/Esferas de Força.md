@@ -1,0 +1,20 @@
+# Esferas de Força *(Spheres of Force)*
+
+**Fonte:** D&D Wiki
+**Tipo:** Improvised Weapon (Arma Improvisada)
+**Dano:** 2d6 Bludgeoning Damage (Dano Contundente) por esfera
+
+**Propriedades (Properties)**
+Estas três esferas assemelham-se a bolas de golfe, pesando aproximadamente 1,36 kg cada uma. Forjadas em um metal prateado de superfície levemente rugosa, possuem um ponto de fusão extraordinariamente elevado, tornando-as imunes à destruição mesmo quando expostas a calor extremo, como lava vulcânica. Ao aproximar o ouvido de uma delas, percebe-se um zumbido grave e contínuo, enquanto o ar ao seu redor distorce-se sutilmente, lembrando a miragem térmica que emana de uma chama intensa. Cada esfera exibe um, dois ou três pequenos pontos dourados dispostos verticalmente, indicando sua numeração correspondente. Esses pontos irradiam um calor suave ao toque.
+
+**Attunement (Sintonização)**
+Antes da Attunement (Sintonização), as esferas são indistinguíveis de três esferas comuns de aço. Quando arremessadas, funcionam como uma Improvised Weapon (Arma Improvisada), caindo no chão após percorrer uma curta distância, como qualquer objeto mundano, embora mantenham sua resistência ao calor. Os efeitos mágicos manifestam-se imediatamente após a conclusão da Attunement (Sintonização). Caso o vínculo seja rompido, as esferas tentarão retornar instantaneamente ao local onde a Attunement (Sintonização) foi realizada, independentemente de estarem agrupadas ou dispersas. Se uma esfera encontrar-se em um plano de existência diferente daquele onde foi sintonizada, este efeito não se ativa.
+
+**Summoning (Convocação)**
+Uma vez sintonizadas, as esferas podem ser convocadas ou enviadas de volta ao seu próprio reino dimensional utilizando uma Bonus Action (Ação Bônus). Para enviá-las ao seu plano de origem, todas devem estar a até 1,5 metros do usuário. Qualquer esfera fora desse alcance permanecerá no local atual. Além disso, enquanto o usuário e as esferas estiverem no mesmo plano de existência, ele pode abrir a mão e atraí-las magneticamente em sua direção, de maneira similar ao retorno do martelo de Thor. Durante o deslocamento, as esferas viajam em linha reta a uma velocidade de 1.240 km/h, aproximando-se da velocidade do som. Se o trajeto de uma ou mais esferas cruzar o espaço ocupado por uma criatura de tamanho Large (Grande) ou superior, a criatura sofre 12d6 Bludgeoning Damage (Dano Contundente). Ao encontrar obstáculos ou estruturas sólidas, as esferas podem atravessá-los ou buscar automaticamente o caminho mais rápido. Consulte seu DM para determinar a interação exata com o ambiente.
+
+**Attack (Ataque)**
+As esferas podem ser utilizadas para realizar um Ranged Attack (Ataque à Distância) que causa 2d6 Bludgeoning Damage (Dano Contundente) cada, com um Range (Alcance) de 10/80 metros. Ao executar o ataque, as esferas não são arremessadas fisicamente, mas sim projetadas em linha reta a partir da mão do usuário. Cada esfera em voo retorna automaticamente ao usuário até o final do próximo Turn (Turno) do mesmo, e inflige 12d6 Bludgeoning Damage (Dano Contundente) a criaturas de tamanho Large (Grande) ou maior que cruzem seu trajeto.
+- **Duas Esferas:** Se o usuário lançar duas esferas como um único ataque, o dano de cada uma é reduzido para 1d6. O usuário pode realizar uma jogada de ataque adicional, permitindo que a segunda esfera atinja um alvo diferente dentro de 1,5 metros do primeiro.
+- **Três Esferas:** Se o usuário lançar as três esferas em um único ataque, o dano de cada uma é reduzido para 2d4. O usuário pode realizar uma jogada de ataque adicional, permitindo que as outras duas esferas atinjam alvos distintos dentro de 1,5 metros do primeiro alvo.
+- **Alvos Múltiplos:** Quando mais de uma esfera atinge o mesmo alvo, o dano total sofrido é limitado a 2d4, independentemente de duas ou três esferas serem utilizadas no ataque.

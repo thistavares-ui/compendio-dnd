@@ -1,0 +1,16 @@
+# Livro do Tempo *(Book of Time)*
+
+**Fonte:** D&D Wiki
+**Tipo:** Item Maravilhoso
+**Dano:** 3d12 Psíquico (se falhar em uma das verificações para abrir o livro)
+
+O Livro do Tempo é um presente dos deuses do Plano Astral, concedido apenas àqueles com maior potencial. Este livro encadernado em couro está selado com ferro frio, feitiços mágicos e outros métodos para impedir que qualquer pessoa não destinada leia-o. A costas do livro traz as palavras "História Completa".
+
+Quando um conjurador recebe o Livro do Tempo de um deus do Plano Astral, ele deve se sintonizar automaticamente com ele, perdendo outro item se necessário. Qualquer outro conjurador capaz de se sintonizar com ele deve seguir os seguintes passos:
+
+As fechaduras mundanas são imunes a efeitos mágicos e requerem um teste de Strength (Força) DC 30 para serem quebradas. As vigias do livro estão escritas em uma linguagem completamente alienígena e requerem um teste de Intelligence (Inteligência) DC 30 para ser lido. Se ler as vigias com sucesso, revelam palavras e padrões constantemente mudando ao redor das palavras "Livro do Tempo". As vigias exigem um teste de Intelligence (Arcanismo) DC 30 para serem quebradas; este teste é feito com vantagem se as vigias foram lidas nos últimos 30 segundos. Falhar em qualquer uma das verificações acima resulta em tomar 3d12 de dano psíquico. Trinta segundos após a primeira fechadura ser quebrada, seja mundana ou mágica, o livro se restaura e se reinicia, efetivamente anulando todo progresso feito para abri-lo.
+
+O Livro do Tempo contém a história completa do universo, mudando à medida que as ações no presente alteram o fluxo do tempo. Só uma criatura é capaz de ler o livro em qualquer momento e mesmo assim o estresse mental de fazê-lo é imenso. A criatura ligada ao Livro do Tempo pode gastar tempo estudando o livro durante um Short Rest (Descanso Curto) ou Long Rest (Descanso Longo) (acordaria após um Descanso Longo com cargas) por até 3 horas uma vez por dia. O leitor toma 1d8 de dano psíquico para cada hora passada estudando o livro, que não pode ser reduzido por meio algum e não pode ser curado durante o descanso. Para os próximos 24 horas, o leitor pode escolher ter sucesso em qualquer rolagem de dados (desde que eles possam ter sucesso com um rol natural de 20), independentemente do tipo, que eles de outra forma falharam. Eles podem usar essa característica uma vez para cada hora passada estudando o livro. Após 24 horas ou um Long Rest (Descanso Longo), o leitor esquece tudo o que ele leu e terá que reler para ganhar mais conhecimento sobre o tempo. O leitor é permitido até 3 usos por dia, independentemente de quantas cargas eles coletaram.
+
+Alternativamente, o leitor pode usar o Livro do Tempo durante um Long Rest (Descanso Longo) para Comunhão com o Senhor e a Senhora do Tempo e da Sorte. Nesse caso, o leitor pode perguntar sobre eventos futuros, mas eles apenas responderão com sim ou não/verdadeiro ou falso/etc. O leitor só pode fazer 5 perguntas em uma semana; qualquer outra pergunta será recebida com Silêncio.
+O Senhor e a Senhora escolherão ocasionalmente (à critério do DM), responder a uma pergunta com uma profecia em vez de sim ou não. Essas ocasiões geralmente falam sobre eventos que poderiam causar grandes flutuações na linha do tempo.

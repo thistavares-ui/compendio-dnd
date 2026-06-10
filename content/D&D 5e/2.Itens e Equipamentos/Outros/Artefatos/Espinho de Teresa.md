@@ -1,0 +1,31 @@
+# Espinho de Teresa *(Teresa's Thorn)*
+
+**Fonte:** D&D Wiki  
+**Tipo:** Artefato (Requer sintonização por um Bardo, Vidente (Seer), Feiticeiro ou Mago)  
+**Dano:** 2d6 cortante (slashing) + propriedades  
+**Propriedades:** Acuidade (Finesse), Alcance (Reach), Pesada (Heavy) *(modificada pela magia)*  
+
+Esta espada grande, forjada centenas de anos antes do seu nascimento pela Vidente (Seer) Teresa Rosa Maddox, foi projetada para ser a arma perfeita para Shawn Spellblade. Ela o serviu em quase todas as suas aventuras e continua sendo sua arma de escolha, mesmo quando lhe são oferecidas opções superiores.
+
+As Propriedades Aleatórias (Random Properties) do **Espinho de Teresa** incluem:
+* 1 propriedade benéfica menor
+* 1 propriedade benéfica maior
+* 0 propriedades prejudiciais menores
+* 0 propriedades prejudiciais maiores
+
+**Presente da Vidente (Seer's Gift):** Você pode adicionar seu Bônus de Proficiência (Proficiency Bonus) às suas jogadas de ataque com esta espada grande, mesmo que não possua proficiência com espadas grandes. Ao completar um Descanso Longo (Long Rest) enquanto estiver sintonizado com esta arma, suas Propriedades Aleatórias (Random Properties) são roladas novamente, fazendo com que você perca as propriedades benéficas atuais em troca de novas.
+
+**Lâmina Grande (Big Blade):** Se você estiver sintonizado com esta lâmina e for de tamanho Médio (Medium) ou menor, pode usar sua Reação (Reaction) quando for alvo de um Teste de Resistência de Destreza (Dexterity Saving Throw) para reduzir o dano à metade. Se você falhar no teste de resistência e não houver dano em um teste bem-sucedido, você interpõe a lâmina entre si e a fonte do efeito.
+
+**Falsa Lâmina Mágica (Fake Spellblade):** Quando você realizar a ação de Atacar (Attack action) com esta espada grande, poderá conjurar uma magia que cause dano de fogo como uma Ação Bônus (Bonus Action). A magia deve ter um Tempo de Conjuração (Casting Time) de 1 ação ou 1 Ação Bônus e, quando conjurada desta forma, a magia se beneficia do dano extra e da Vulnerabilidade (Vulnerability) da característica Fogo e Correntes (Fire and Chains).
+
+**Arma Emplumada (Feathered Weapon):** Enquanto estiver sintonizado com esta espada grande, você recebe um bônus de +3 nas suas jogadas de ataque e dano com ela. Além disso, ela possui as propriedades de Acuidade (Finesse) e Alcance (Reach) para você, mas perde a propriedade Pesada (Heavy). Características e efeitos que exigem o uso de uma arma com a propriedade de Acuidade (como o Ataque Furtivo (Sneak Attack) de um Ladino (Rogue)) não podem ser utilizados com esta arma apenas por causa deste encantamento. A lâmina é virtualmente sem peso para seu usuário sintonizado, permitindo que ele ignore os efeitos de arrasto ou inércia ao brandir uma lâmina grande e pesada. Criaturas de qualquer tamanho podem usá-la normalmente, sem penalidades, enquanto estiverem sintonizadas com ela, mesmo que normalmente não pudessem. A lâmina pesa apenas 1 kg para qualquer criatura que não esteja sintonizada com ela, incluindo alvos de seus ataques. Ela causa um dano adicional de 2d4 de concussão (bludgeoning) em qualquer alvo que atinja com um ataque.
+
+**Fogo e Correntes (Fire and Chains):** Esta espada grande causa um dano adicional de 1d4 de fogo (fire) a qualquer alvo que atinja com um ataque. Demônios e Diabos (Fiends) e Mortos-vivos (Undead) são Vulneráveis (Vulnerable) ao dano desta arma, mesmo que sejam resistentes ou imunes a ele. Como uma Ação Bônus (Bonus Action) no seu turno, você pode fazer com que a lâmina se separe em 5 peças distintas, conectadas por uma corrente no núcleo da arma. Ao fazer isso, você pode realizar um ataque contra uma criatura ou Objeto (Object) que não esteja sendo usado ou carregado, dentro de 9 metros (30 ft) de você. Se o ataque acertar, você pode se puxar para um espaço desocupado a até 1,5 metros (5 ft) do alvo, como se usasse um Gancho (Grappling Hook), ou pode forçar o alvo a fazer um Teste de Resistência de Força (Strength Saving Throw) com CD 19. Em caso de falha, o alvo é puxado para um espaço desocupado a até 1,5 metros (5 ft) de você, a menos que esteja agarrado (grappled). Uma criatura ou Objeto que seja destruído, morto ou deixado Inconsciente (Unconscious) pelo dano causado por este ataque falha automaticamente no teste de resistência e é arrancado do local onde estava preso.
+
+**Arma Energizada (Powered Weapon):** A lâmina requer uma Varinha Verdadeira (True Wand) para funcionar, a qual é inserida dentro da haste oca através do pomo (pommel), que se abre como uma tampa. Enquanto a lâmina não estiver alimentada por uma Varinha Verdadeira, nenhuma de suas propriedades funciona, exceto a propriedade Arma Emplumada (Feathered Weapon). Enquanto estiver alimentada, esta arma também atua como uma Varinha Verdadeira para seu usuário, incluindo a função de Foco Arcano (Arcane Focus).
+
+**Espinhos (Thorns):** Quando você sofrer dano enquanto estiver sintonizado com esta espada grande, pode usar sua Reação (Reaction) para realizar um Ataque de Oportunidade (Opportunity Attack) contra o atacante original.
+
+**Destruindo o Espinho de Teresa (Destroying Teresa's Thorn):**  
+A espada grande é um Objeto (Object) com Classe de Armadura (Armor Class) 20, 100 Pontos de Vida (Hit Points) (e 100 pontos de vida máximos), 10 de Força (Strength), 0 de Destreza (Dexterity) (falhando automaticamente em Testes de Resistência de Destreza (Dexterity Saving Throws)) e 20 de Constituição (Constitution). Ela possui Imunidade (Immunity) a todos os tipos de dano, exceto dano de energia (energy damage). Se a lâmina for destruída normalmente, ela se quebra em 17 pedaços grandes que caem dentro de um raio de 9 metros (30 ft) de onde a lâmina estava. No entanto, a lâmina não perde sua capacidade de conjurar magias (Spellcasting) e ainda pode ser refundida com todas as peças originais de qualquer forma, restaurando a lâmina completamente quando isso ocorrer. Quando destruída desta maneira, a Varinha Verdadeira (True Wand) que a alimenta também é destruída, e uma nova Varinha Verdadeira deve ser usada para substituí-la. Se o espírito de Teresa Rosa Maddox for destruído, a arma perde sua Imunidade (Immunity) a outros tipos de dano e perde sua capacidade de conjurar magias (Spellcasting) para sempre quando for destruída.

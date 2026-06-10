@@ -1,0 +1,12 @@
+# Stiganfal *(Stiganfal)*
+
+**Fonte:** D&D Wiki
+**Tipo:** Wondrous Item, Weapon (Item Maravilhoso, Arma)
+**Dano:** 2d6 Lightning Damage (Dano Relâmpago)
+**Propriedades:** Magic (Mágico), Range (Alcance), Light (Luz)
+
+Este par de luvas negras apresenta um design assimétrico: a luva esquerda é completa, enquanto a direita possui apenas os três dedos centrais revestidos por um couro espesso e resistente. No dorso de ambas, faíscas de eletricidade azul-anilada pulsam em padrões irregulares, como raios contidos prestes a se libertar. Ao calçá-las, o usuário sente uma descarga súbita de energia percorrer seus braços, fazendo seus cabelos se eriçarem. Passado o choque inicial, uma sensação de formigamento constante e uma leve dor surda permanecem nas mãos enquanto as luvas estiverem vestidas.
+
+Em seu Turn (Turno), o usuário pode estender a mão esquerda como se empunhasse um arco e puxar a mão direita para trás, simulando o ato de armar uma flecha. Instantaneamente, a eletricidade se condensa: a mão esquerda molda o arco, enquanto os três dedos da mão direita seguram a corda e uma flecha, ambas formadas por pura energia. Essa eletricidade brilha intensamente e, sob chuva, crepita e salta até 1 cm da superfície (um efeito puramente estético que não causa dano ao portador). No entanto, se o polegar ou o dedo mínimo desprotegidos tocarem a corda energética, o usuário sofre 1d4 de Lightning Damage (Dano Relâmpago).
+
+O Stiganfal emite Bright Light (Luz Plena) em um raio de 6 m e Dim Light (Meia-luz) até 12 m. Para fins de Proficiency (Proficiência), este equipamento é tratado como um Longbow (Arco Longo). Seus ataques são considerados mágicos para superar resistências a ataques não mágicos. Um Ranged Weapon Attack (Ataque com Arma à Distância) bem-sucedido causa 2d6 de Lightning Damage (Dano Relâmpago). Se o alvo estiver vestindo armadura de metal, como Plate (Armadura de Placas) ou Chain Mail (Cota de Malha), ele sofre 1d6 adicional de Lightning Damage (Dano Relâmpago). Caso o alvo esteja encharcado ou submerso em água, a descarga elétrica paralisa momentaneamente seus músculos, fazendo com que ele perca sua Reaction (Reação) até o início de seu próximo Turn (Turno). Disparar o arco produz um estrondo audível, semelhante a um trovão, que pode ser ouvido a até 90 m de distância.

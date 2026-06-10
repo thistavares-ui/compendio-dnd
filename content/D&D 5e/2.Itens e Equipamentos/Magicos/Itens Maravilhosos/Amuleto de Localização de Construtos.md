@@ -1,0 +1,3 @@
+# Amuleto de Localização de Construtos *(Amulet of Construct Location)*
+
+Este amuleto possui 5 cargas. Como uma Action (Ação), você pode gastar uma carga para ser magicamente informado sobre todos os construtos dentro de um raio de 18 metros a partir de você. Você fica ciente do tamanho, aparência e tipo de cada criatura, mas não de seus Hit Points (Pontos de Vida) atuais, sua pontuação total em pontos de vida, alinhamento, Armor Class (Classe de Armadura) ou qualquer valor de atributo. O amuleto recupera 1d4 + 1 cargas gastas diariamente ao amanhecer.

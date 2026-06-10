@@ -1,0 +1,9 @@
+# Pedra de Mithril do Smiting de Porco *(Mithril Pebble of Pig Smiting)*
+
+**Fonte:** D&D Wiki
+**Tipo:** Arma Mágica (Wondrous Item)
+**Dano:** 200d20 Necrótico (quando arremessada contra um porco)
+
+A Pedra de Mithril do Smiting de Porco é uma arma mítica forjada nos abismos de Tartarus pelo grande ferreiro de Lúcifer, em tempos longínquos antes do início do mundo. Guerras após guerras foram travadas no Abismo da Dor até que a relíquia foi finalmente legada ao mais humilde dos camponeses, Makenzie. Rapidamente corrompido por seu poder, ele lançou uma investida solitária contra o reino. Com a posse da pedra, conflitos sem fim se seguiram, todos originados do recém-coroado rei, cujo desejo de força era insaciável. Gerações de monarcas continuaram suas conquistas: Yamato, Carrie, Budva, Logan, Bread e muitos outros foram levados à loucura por sua influência corrompedora. Cada rei lutava na linha de frente de sua própria carnificina. Finalmente, outro soberano, abençoado pelos deuses, confrontou a pedra com o poderoso [[Demônio's Bane]] e derrubou o regente depravado. Por séculos, ela permaneceu inativa nos cofres reais, sendo desenterrada apenas quando o reino estava à beira da morte. O guerreiro mais forte seria incumbido de empunhar ambos os armamentos exclusivamente. Mas então veio a traição! O Ladrão Cocainus havia obtido a arma sagrada! Ao confrontá-lo, o portador da pedra o matou em um único golpe, mas não antes que seu inimigo pudesse revidar. Assim, Mardoza, Protetor da Pedra, caiu de joelhos e partiu para além desta vida, deixando para trás a poderosa arma. Ele sabia que um dia seu poder seria necessário novamente. A lenda da pedra vive em nossas memórias.
+
+Quando arremessada contra um porco, esta arma causa 200d20 de dano necrótico.

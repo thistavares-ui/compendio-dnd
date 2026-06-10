@@ -1,0 +1,6 @@
+# Órbita Demiplanar *(Demiplanar Orb)*
+
+**Fonte:** D&D Wiki  
+**Tipo:** Item Maravilhoso  
+
+Uma esfera de vidro liso, do tamanho aproximado de uma palma. Quando esfregada, revela um reflexo do demiplano contido em seu interior. Como uma **Ação (Action)**, você pode arremessar a órbita contra um ponto no chão que esteja à sua vista e a até 18 metros de você. Ao atingir o alvo, ela se estilhaça e uma passagem para o demiplano interno se abre no local da ruptura, formando um círculo de 3 metros de diâmetro. O demiplano é um cubo de 15 metros de lado, com paredes de pedra lisa. A passagem desaparece no início do seu próximo turno, e a órbita se reforma instantaneamente. Cada criatura na área da passagem no momento em que ela se abre deve realizar um **Teste de Resistência de Destreza (Dexterity Saving Throw)** com **CD 18**. Se falhar no teste, a criatura é puxada para dentro do demiplano. Em caso de sucesso, ela pode usar sua **Reação (Reaction)** para se mover até metade da sua velocidade para fora da área da passagem.

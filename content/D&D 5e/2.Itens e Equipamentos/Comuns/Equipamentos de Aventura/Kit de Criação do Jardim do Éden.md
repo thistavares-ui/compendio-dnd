@@ -1,0 +1,7 @@
+# Kit de Criação do Jardim do Éden *(Garden of Eden Creation Kit)*
+
+**Fonte:** D&D Wiki
+**Tipo:** Equipamento de Aventura (Adventuring Gear)
+**Dano:** 55 (10d10) de dano Energético em uma área de 18 m de raio; além disso, emite radiação intensa por séculos.
+
+O Kit de Criação do Jardim do Éden apresenta-se como uma elegante e discreta maleta de prata, ostentando a sigla G.E.C.K. em letras douradas na parte frontal. Trata-se de um avançado dispositivo de terraformação, desenvolvido pelo cientista da Vault-Tec, Dr. Stanislaus Braun, com o propósito de restaurar a viabilidade ambiental após uma catástrofe nuclear. Ao ser ativado, o aparelho ara e purifica todo o solo e corpos d'água, erradicando doenças e radiação em uma área de 1,6 km de raio, ao mesmo tempo em que semeia uma vegetação especificamente projetada para ser extremamente resistente e comestível. O dispositivo pode ser desmontado para a extração de componentes altamente úteis, incluindo um pequeno reator nuclear, bastando seguir as instruções técnicas inclusas. Contudo, se for danificado, o kit libera uma violenta explosão radioativa que causa 55 (10d10) de dano Energético em uma área de 18 m de raio e, subsequentemente, passa a emitir níveis letais de radiação por séculos.

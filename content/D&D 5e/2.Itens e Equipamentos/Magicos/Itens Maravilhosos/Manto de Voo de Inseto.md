@@ -1,0 +1,25 @@
+# Manto de Voo de Inseto *(Cloak of Insect Flying)*
+
+**Fonte:** D&D Wiki
+**Tipo:** Item Maravilhoso (Maravilhoso, Raro)
+
+Enquanto você usa este manto, você ganha um Deslocamento de Voo (*Flying Speed*) de 36 metros. No entanto, esse voo é incontrolável.
+
+Quando você usar essas asas para voar, deve gastar toda a sua Movimentação restante para se deslocar em uma linha reta na direção de sua escolha. Se encontrar um objeto sólido durante seu deslocamento, você o atinge exatamente como faria ao cair. Enquanto utiliza seu Deslocamento de Voo, você só pode pousar (quando estiver a 1,5 metro ou menos do chão) ou decolar em um hover no final da sua vez. Adicionalmente, você não pode Correr enquanto voa com essas asas.
+
+Enquanto usa o manto, você também ganha um efeito distinto baseado no tipo de inseto representado pelas asas. O Mestre pode escolher o tipo de asa ou determiná-lo aleatoriamente usando a tabela abaixo.
+
+| d100 | Tipo de Inseto | Efeito |
+| :--- | :--- | :--- |
+| 1-10 | Formiga | Seu Modificador de Força (*Strength*) é aumentado em 2, até um máximo de 12. Você também tem vantagem em ataques corpo a corpo contra uma criatura quando um aliado está dentro de 1,5 metro daquela criatura e o aliado não está Incapacitado (*Incapacitated*). Você não pode fazer hover enquanto usa essas asas. |
+| 11-20 | Formigão | Você adquire uma velocidade de Escavação (*Burrowing Speed*) de 9 metros e se torna resistente a danos de Ácido. Você não pode fazer hover enquanto usa essas asas. |
+| 21-30 | Abelha | Cada vez que você é atingido por um ataque corpo a corpo de uma criatura dentro de 1,5 metro de você, pelos são soltos das suas asas causando 1d4 de dano Perfurante e 1d6 de dano Venenoso à criatura. |
+| 31-40 | Besouro | Você adquire um bônus de +2 em Classe de Armadura (*Armor Class*). Você não pode fazer hover enquanto usa essas asas. |
+| 41-48 | Borboleta | Seu Modificador de Carisma (*Charisma*) é aumentado em 2, até um máximo de 12. Enquanto as asas do manto estiverem abertas, você pode usar uma Ação para criar uma explosão instantânea de padrões vívidos e cativantes. Cada criatura que estiver dentro de 18 metros de você e à sua vista das asas deve realizar um Teste de Resistência de Sabedoria (*Wisdom Saving Throw*) DC 18 ou se tornar cegamente enfeitiçado por 1 minuto, como se o feitiço [[D&D 5e/2.Itens e Equipamentos/Magicos/Itens Maravilhosos/Padrão Hipnótico]] tivesse sido lançado nele. Uma vez que essa propriedade seja usada, ela não pode ser usada novamente até o próximo amanhecer. Você não pode fazer hover enquanto usa essas asas. |
+| 49-56 | Cicada | A superfície está coberta com garras antibacterianas. Você é imune a todas as doenças mágicas e não mágicas. Quando um ataque com arma à Distância o atinge, você pode usar sua Reação para cortar o projétil, fazendo o ataque falhar. Essas asas criam um som constante de ressonância audível até 30 metros. Você não pode fazer hover enquanto usa essas asas. |
+| 57-64 | Libélula | O Deslocamento de Voo do manto e os danos que você sofre ao bater em um objeto sólido em voo são triplicados. |
+| 65-72 | Mosca | No início de cada uma de suas vezes, você pode escolher ter um Deslocamento de Voo de 18 metros. Enquanto voa a essa velocidade, você não sofre os efeitos da velocidade incontrolável e pode pousar ou decolar em qualquer momento. |
+| 73-80 | Grilo | Sua distância de Salto é triplicada. Quando você for alvo de um ataque, você pode usar sua Reação para saltar fora do caminho, fazendo o ataque falhar. Você não pode fazer hover enquanto usa essas asas. |
+| 81-88 | Mantis | Seu Deslocamento de Caminhada (*Walking Speed*) é aumentado em 3 metros. Enquanto as asas do manto estiverem abertas, você pode usar uma Ação para criar uma postura mágica que inspira medo. Cada criatura que estiver dentro de 18 metros de você e à sua vista das asas deve realizar um Teste de Resistência de Inteligência (*Intelligence Saving Throw*) DC 18 ou se tornar Amedrontado (*Frightened*) por você por 1 minuto. Uma criatura Amedrontada pela postura pode repetir o teste de resistência ao final de cada uma de suas vezes. Uma vez que essa propriedade seja usada, ela não pode ser usada novamente até o próximo crepúsculo. Você não pode fazer hover enquanto usa essas asas. |
+| 89-96 | Mariposa | Você adquire visão noturna até uma distância de 36 metros. Se você estiver voando em Meia-luz ou Escuridão, você pode escolher se tornar Invisível ou perfeitamente imitar a aparência de qualquer criatura alada. Você não pode fazer hover enquanto usa essas asas. |
+| 97-00 | Vespão | Você pode usar sua Ação Atacar para fazer um ataque corpo a corpo usando essas asas. As asas funcionam como uma Espada Curta quando usadas em um ataque, causando 1d6 de dano Venenoso adicional em caso de acerto. Você pode realizar esse ataque em voo tanto ao fazer hover quanto perto de um alvo. Quando você fizer esse ataque enquanto voa, os danos causados pelas asas ganham 1d6 de dano Perfurante adicional para cada 3 metros que você voou usando essas asas durante a mesma vez. |

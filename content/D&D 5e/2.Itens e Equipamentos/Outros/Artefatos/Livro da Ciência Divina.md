@@ -1,0 +1,31 @@
+# Livro da Ciência Divina *(Book of Divine Science)*
+
+**Fonte:** D&D Wiki  
+**Tipo:** Artefato  
+**Dano:** 1d4 (Ataque corpo a corpo), 1d6 (Toque-1'), 1d4 (Arremesso)  
+**Propriedades:**
+
+O Livro da Ciência Divina parece ser apenas um livro verde pesado, sem nenhuma escrita na capa, exceto por um símbolo em folha de ouro que representa uma espiral distorcida cercada pelos pontos de um compasso sem marcação. O texto nas páginas do livro é escrito em caracteres comuns, as palavras não correspondem a nenhum idioma conhecido, mas possuem a consistência de um idioma ou códice. Qualquer criatura que possua níveis de classe e leia este livro até o final em 1d4 horas deve realizar um Teste de Resistência (Saving Throw) contra sua própria Pontuação de Carisma (Charisma). Se o teste for bem-sucedido, a criatura ganha acesso ao benefício Tandem Leveling; se falhar, o leitor sofre da maldição Obsessão.
+
+O Livro da Ciência Divina possui as seguintes propriedades aleatórias:
+
+* 1 propriedade benéfica maior  
+* 2 propriedades prejudiciais menores  
+
+Enigmático:  
+Este item é imune a todas as formas de análise mágica e não pode ser identificado com magia. Ele deve ser lido para revelar seus efeitos. Apenas criaturas que leram o livro com sucesso sabem seu título. Qualquer tentativa de anotar, sublinhar, destacar, imprimir, ilustrar, desenhar, cruzar, apagar ou alterar de alguma forma o texto acelerará a expiração prematura do implemento de escrita concernido, e qualquer escrita adicionada ou removida será restaurada ao seu estado anterior dentro de 1d10 horas e 1d30 minutos, a menos que o livro seja completamente destruído antes disso...
+
+Obsessão:  
+Se o teste de atributo falhar, a criatura não pode tomar um Descanso Longo por 72 horas e deve Zelar uma ação contínua ou movimento quando não estiver em Descanso Curto, durante o qual ela pode apenas restaurar metade da saúde do seu Dado de Vida. A criatura não pode ler nenhum texto durante a duração da obsessão. Qualquer tentativa de ler algo, incluindo seus próprios livros ou rolos mágicos aumentará a duração da obsessão em 1d12 horas. A criatura apenas pode tentar ler o Livro da Ciência Divina novamente após a Obsessão ter terminado.
+
+Risco de Loucura:  
+Se o teste de atributo for bem-sucedido e o leitor recusar o benefício Tandem Leveling, ele será submetido a uma loucura aleatória ou selecionada pelo GM, de acordo com as regras estabelecidas no setting sobre Loucura ou aquelas encontradas na Guia do Mestre.
+
+Tandem Leveling:  
+Se o benefício for aceito, o leitor do Livro da Ciência Divina adiciona Tandem Leveling a suas habilidades. Com o benefício Tandem Leveling, os Pontos de Experiência se tornam uma moeda despendível que pode ser gasta em níveis em múltiplas classes, permitindo que habilidades e feitiços de qualquer classe sejam aprendidos e praticados. A criatura pode manter o aumento no Pontuação de Carisma (Charisma), características de Dados e traços de suas experiências multiclasse anteriores, quando aplicáveis. No entanto, a criatura deve escolher uma classe primária adiante e ganhará aumento no Pontuação de Carisma (Charisma), Dados, características e slots mágicos, bem como feitiços, habilidades e proficiências da classe primária escolhida. Qualquer outra classe que a criatura treine será considerada secundária. Um Tandem Leveler pode aprender feitiços, habilidades e proficiências de classes secundárias, mas não pode ganhar traços, características ou Dados de classes secundárias. Se a criatura for Humana, ela pode ganhar uma proficiência em perícia por cada 4 aumentos no Pontuação de Carisma (Charisma) listados em classes secundárias. Não-humanos não ganharão nada dos aumentos no Pontuação de Carisma (Charisma) em classes secundárias, mas podem ganhar uma proficiência em perícia inicial de uma classe secundária avançando-a para o 20º nível. O nível do personagem de um Tandem Leveler será considerado igual ao seu nível da classe primária. Avançar a classe primária custará tantos Pontos de Experiência quanto é necessário para alcançar o próximo nível do personagem, enquanto avançar uma classe secundária custará 50.000 Pontos de Experiência para um personagem normal ou 300.000 Pontos de Experiência para um Personagem Épico. Todos os Pontos de Experiência ganhos antes de aceitar o Tandem Leveling serão considerados gastos, pois já concederam Avanço de Nível. Ao critério do GM, um Tandem Leveler pode gastar 50.000 Pontos de Experiência para desbloquear um traço ou característica de uma classe secundária em um nível inferior.
+
+Arma Equipável:  
+O Livro da Ciência Divina pode ser equipado como uma arma simples de choque, este livro não é considerado uma arma improvisada. Em ataques corpo a corpo a 2'-3', o Livro da Ciência Divina causa 1d4 dano de choque, se o dano for 4, há uma chance de 25% de Arrombar o alvo (rolar 1d4 para determinar se o arrombamento é bem-sucedido). A uma distância de Toque-1', o Livro da Ciência Divina causa 1d6 dano de choque, se o dano for 6, há uma chance de 100% de Arrombar o alvo. Se lançado, o Livro da Ciência Divina causa 1d4 dano de choque, se o dano for 1, ele cai aos pés do alvo após o impacto, se o dano for 2-3, ele instantaneamente retorna aos pés do lançador no impacto, se o dano for 4, ele explode em confete branco, verde e dourado no impacto, causando 2 dano cortante ao alvo e destruindo o Livro da Ciência Divina.
+
+Destruição do Livro da Ciência Divina:  
+Este livro é imune a todas as formas de magia exceto pelo fogo. Ele pode ser destruído por fogo ou qualquer outra forma de meio mundano, no entanto, se destruído, ele reaparecerá em outro local e tempo; seja passado, futuro ou contemporâneo com a destruição do livro, em qualquer lugar do multiverso. Quaisquer criaturas afetadas por sua poderão manter quaisquer benefícios que ganharam, no entanto, quaisquer desvantagens serão anuladas. O GM decide onde e quando o livro reaparece, essa decisão precisa apenas ser feita se o GM planeja a existência do livro afetar novamente a aventura da parte ou de outra parte... O Livro da Ciência Divina tem 12 Pontos de Vida (Hit Points) e uma Classe de Armadura (Armor Class) de 11.

@@ -1,0 +1,16 @@
+# Arco da Corte Silvana *(Silvan Court Bow)*
+
+**Fonte:** D&D Wiki  
+**Tipo:** Arma Marcial à Distância *(Martial Ranged Weapon)*  
+**Dano:** 1d8 perfurante *(piercing)*  
+**Propriedades:** Munição *(Ammunition)* (alcance 24/96 m), Duas Mãos *(Two-Handed)*  
+
+Este arco de teixo é, antes de tudo, uma obra de arte, embora possa ser empunhado com letal eficácia no campo de batalha. Finas gravuras ornamentam sua madeira lindamente polida, e a corda do arco parece estar entrelaçada com delicados fios de ouro.
+
+Para qualquer criatura que não seja um elfo, este arco finamente trabalhado aparenta ser uma arma comum, distinguindo-se apenas por sua beleza impecável e por não exigir limpeza ou manutenção de qualquer tipo. Nas mãos de um elfo, no entanto, sua magia latente desperta. A arma começa a ressoar com seu portador, e seu poder cresce em perfeita sintonia com o dele.
+
+* **Sintonia e Melhoria:** Quando um elfo se sintoniza com esta arma, ela concede um bônus de melhoria *(enhancement bonus)* de +1. Quando o Bônus de Proficiência *(Proficiency Bonus)* do usuário atinge +4 (ou 1d8, caso utilize a regra variante de Dados de Proficiência / *Proficiency Dice*), este bônus de melhoria aumenta para +2. Quando o Bônus de Proficiência do usuário atinge +6 (ou 1d12), o bônus de melhoria torna-se +3.
+* **Dano Extra:** Enquanto o bônus de melhoria desta arma for +1 ou superior, o usuário pode optar por causar dano extra em um acerto. Esse dano extra é igual ao número de Dados de Proficiência *(Proficiency Dice)* do personagem, utilizando o mesmo tamanho de dado (por exemplo, um personagem de 3º nível causaria 2d4 de dano extra).
+* **Armazenamento de Magias:** Enquanto o bônus de melhoria for +2 ou superior, o arco ganha a propriedade de Armazenamento de Magias *(Spell Storing)*. Ele pode armazenar até duas magias de 1º nível ou uma magia de 2º nível, desde que o Tempo de Conjuração *(Casting Time)* da magia seja de no máximo 1 Ação *(Action)*. Conjurar a magia armazenada requer uma Ação Bônus *(Bonus Action)*, ou uma Reação *(Reaction)*, se este for o Tempo de Conjuração normal da magia.
+* **Poder Máximo:** Enquanto o bônus de melhoria for +3, o usuário trata seu dado de dano base como 3d12. Além disso, como parte de sua Jogada de Ataque *(Attack Roll)* naquele turno, pode escolher ganhar Vantagem *(Advantage)* em seu primeiro ataque.
+* **Compulsão de Batalha:** Enquanto estiver sintonizado com este arco, o portador é impulsionado a nunca recuar de qualquer conflito contra orcs ou trolls, independentemente do perigo. Se o portador tentar recuar de uma batalha contra qualquer orc ou troll hostil, ele deve ser bem-sucedido em um Teste de Resistência *(Saving Throw)* de Sabedoria *(Wisdom)* com CD 20. Em caso de falha, ele deve continuar usando suas ações para atacar ou combater o inimigo, embora possa optar por manter a distância *(stay at range)*. Em caso de sucesso, ele pode fugir, mas sofrerá Desvantagem *(Disadvantage)* em todos os Testes de Habilidade *(Ability Checks)* e Testes de Resistência *(Saving Throws)* por 24 horas, a menos que essas ações estejam diretamente envolvidas em retornar ao combate para eliminar o inimigo do qual recuou.

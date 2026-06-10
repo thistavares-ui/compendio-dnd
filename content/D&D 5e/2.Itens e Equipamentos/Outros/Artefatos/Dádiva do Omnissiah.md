@@ -1,0 +1,36 @@
+# Dádiva do Omnissiah *(Omnissiah's Gift)*
+
+**Fonte:** D&D Wiki
+**Tipo:** Artefato (requer sintonização)
+**Dano:**
+**Propriedades:**
+
+A Dádiva do Omnissiah é um equipamento forjado por uma das civilizações mais avançadas que já existiram. Trata-se de um artefato que comprime tecnologia de ponta em uma única peça de equipamento funcional. O criador desta dádiva é o Omnissiah, uma inteligência artificial que alcançou a senciência. O Omnissiah é agora tão poderoso que controla um plano inteiro de existência, e todas as máquinas que o seguem são absolutamente leais.
+
+Em sua forma dormente, a Dádiva é uma manopla metálica reluzente, com placas de metal entrelaçadas umas sobre as outras. Quando uma criatura com potencial suficiente (determinado pela IA) coloca a mão na manopla, ela se vincula imediatamente, e a criatura sofre 20 de dano Perfurante (Piercing) à medida que o metal se ajusta à mão. Para remover a manopla à força, a criatura precisaria amputar a própria mão. Ao longo do dia seguinte, a manopla se expande para cobrir todo o braço e se funde a ele, não podendo mais ser removida. Em uma semana, filamentos se estendem até o cérebro, permitindo a comunicação entre o Omnissiah e a criatura.
+
+**Maldição.** Você não pode desintonizar deste equipamento a menos que ele seja destruído. Isso só pode ser feito por meio de uma magia *Wish (Desejo)* ou *Divine Intervention (Intervenção Divina)*.
+
+**Modo de Transformação.** Como uma *Action (Ação)*, você pode alternar o modo da Dádiva entre a forma de combate e a forma dormente.
+
+**Dormente.** Em sua forma dormente, a Dádiva é apenas uma manopla que se expandiu por todo o braço. O braço funciona normalmente e não possui habilidades extras, além de ser tão resistente quanto o aço.
+
+**Combate.** Ao mudar da forma dormente para a forma de combate, a manopla se transforma no equipamento mais compatível. Consulte a seção de compatibilidade para informações adicionais.
+
+**Senciência.** A Dádiva do Omnissiah possui uma IA instalada com alinhamento *Lawful Neutral (Ordeiro e Neutro)* e possui escores mentais de 25 de *Intelligence (Inteligência)*, 16 de *Wisdom (Sabedoria)* e 12 de *Charisma (Carisma)*. A IA senciente pode falar com o usuário através dos filamentos conectados ao cérebro e possui *Darkvision (Visão no Escuro)* até 36 m.
+
+**Compatibilidade.** A IA determinará o estado mais otimizado para a criatura, podendo ser um *Longbow (Arco Longo)*, *Longsword (Espada Longa)* ou *Dagger (Adaga)*. Todas as formas funcionam como uma arma mágica +3.
+
+**Arco Longo.** Dois braços de arco se estendem das partes superior e inferior da manopla, formando um "X" alongado. Seus sentidos são aprimorados e você ganha preparação para o combate à medida que a IA injeta adrenalina sintética diretamente em seu cérebro. Você recebe um bônus de *Initiative (Iniciativa)* igual ao seu modificador de *Wisdom (Sabedoria)*.
+
+**Espada Longa.** Uma espada gigantesca se estende da lateral de sua manopla metálica. A lâmina, alimentada por energia nuclear, brilha suavemente e aumenta a potência em seu corpo à medida que a IA usa essa energia para empoderar seu físico. Sua velocidade é aumentada em 6 m.
+
+**Adaga.** Sua manopla metálica se transforma em uma adaga que agora se estende a partir do seu pulso. A adaga emite um brilho estranho e o envolve em uma névoa púrpura escura. Você recebe um bônus de *Stealth (Furtividade)* igual ao seu modificador de *Intelligence (Inteligência)*. Além disso, quando você atinge um inimigo que não pode vê-lo, a névoa se infiltra na ferida, causando 2d6 de dano *Necrotic (Necrótico)* adicional.
+
+**Poder do Omnissiah.** Quando a Dádiva está em sua forma de combate, qualquer ataque com este equipamento será imbuído de eletricidade negra, causando 3d8 de dano *Force (Força)* adicional. Além disso, todos os tipos de armas possuem uma habilidade única que pode ser ativada apenas quando a IA escolher aquele equipamento específico para você. Você pode usar essa habilidade um número de vezes igual ao seu *Proficiency Bonus (Bônus de Proficiência)*. Você recupera todos os usos ao completar um *Long Rest (Descanso Longo)*.
+
+**Overclocked (exclusivo da forma Arco Longo).** Como uma *Bonus Action (Ação Bônus)*, você pode fazer a IA sobrecarregar a Dádiva. Ao fazer isso, você terá uma velocidade inigualável por um turno. Enquanto sobrecarregado nesse modo, qualquer ataque que você fizer disparará um dardo adicional que causa 2d8 de dano *Piercing (Perfurante)* extra. Além disso, sempre que o usuário marcar um *Critical Hit (Acerto Crítico)*, o dardo se fixa no alvo e uma pequena explosão é armada. O alvo pode usar uma *Action (Ação)* para remover os dardos, sofrendo 2d8 de dano *Piercing (Perfurante)* adicional durante a remoção. Se os dardos permanecerem até o fim do turno do alvo, as explosões detonam e causam metade do dano total original da ação. Ao final do seu turno, o equipamento estará quente demais para funcionar. Você sofre 2d10 de dano *Necrotic (Necrótico)* e fica *Vulnerable (Vulnerável)* a todos os danos até o fim da próxima rodada.
+
+**Guerra Divina (exclusivo da forma Espada Longa).** Como uma *Bonus Action (Ação Bônus)*, você pode solicitar a ajuda do Omnissiah, fazendo com que ele empreste parte de sua potência a você. Durante esse turno, o Omnissiah calculará a ação mais otimizada para cada fibra muscular e maximizará a produção de energia do gerador nuclear com precisão quântica. Enquanto se move, você não provoca *Opportunity Attacks (Ataques de Oportunidade)* ao sair do alcance de um inimigo. Sua velocidade é dobrada. Sempre que você atinge um inimigo, a lâmina parece se estender em direção aos pontos vitais do alvo. Qualquer rolagem de 19 ou 20 no dado é um *Critical Hit (Acerto Crítico)*. Ao final do seu turno, você sofre 2d10 de dano *Radiant (Radiante)* e fica *Vulnerable (Vulnerável)* a todos os danos até o fim da próxima rodada.
+
+**Rei Assassino (exclusivo da forma Adaga).** Como uma *Bonus Action (Ação Bônus)*, você pode ascender ao mais alto grau de assassinato, adensando a névoa e aumentando drasticamente sua letalidade. Durante esse turno, você pode se esconder na névoa sem usar uma ação ou precisar estar em obscurecimento, sua velocidade é aumentada em 6 m e você adquire *Resistance (Resistência)* a dano *Necrotic (Necrótico)*. Como parte dessa ação, você pode se teletransportar até 36 m para qualquer lugar que possa ver e aumentar o dano do seu próximo ataque em 10d6 de dano *Necrotic (Necrótico)* ao descarregar sua arma. Quando você marca um *Critical Hit (Acerto Crítico)* com esta ação, o alvo deve ser bem-sucedido em um *Saving Throw (Teste de Resistência)* de *Constitution (Constituição)* CD 22 ou sofrerá 10d6 de dano *Thunder (Trovejante)*, ou metade desse valor em caso de sucesso. Se falhar no teste, o alvo também fica *Paralyzed (Paralisado)* até o início do seu próximo turno. Se você não puder descarregar o ataque após se teletransportar e estiver no chão, você sofre 10d6 de dano *Necrotic (Necrótico)* à medida que a carga do equipamento passa por você e se dissipa no solo. Quando sua ascensão termina, você sofre 2d10 de dano *Thunder (Trovejante)* e fica *Vulnerable (Vulnerável)* a todos os danos até o fim da próxima rodada.
