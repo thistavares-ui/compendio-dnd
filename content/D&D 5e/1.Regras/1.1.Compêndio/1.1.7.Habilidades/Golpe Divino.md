@@ -1,0 +1,2 @@
+# Golpe Divino (*Divine Smite*)
+A partir do 2º nível, quando você acerta uma criatura com um ataque corpo a corpo com arma, pode gastar um **spell slot** (espaço de magia) para causar 2d8 de dano radiante adicional, mais 1d8 para cada nível do slot acima do 1º.
