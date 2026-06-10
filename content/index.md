@@ -6,7 +6,7 @@ title: Compêndio D&D 5e - ThiSTavares
 
 Esta é a Wiki completa e interativa do Mestre Psiônico contendo todas as anotações do sistema de Dungeons & Dragons 5ª Edição!
 
-![Mestre Psiônico](D&D 5e/7.Imagens/Mestre_Psionico.png)
+![[Mestre_Psionico.png]]
 
 Use o menu lateral à esquerda (Explorador) para pesquisar e navegar ou comece explorando as pastas principais abaixo, mas vale ressaltar que use com moderação pois o mestre sabe o que você esta pensando:
 
