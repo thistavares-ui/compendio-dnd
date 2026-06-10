@@ -1,0 +1,4 @@
+f883579 Adiciona Restante
+ac2b196 Adiciona Itens
+c3a32e1 Adiciona Regras e PDFs menores
+7410ee9 Configuracoes
